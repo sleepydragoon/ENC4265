@@ -13,7 +13,18 @@
 # Wayback Analysis
 
 ## YouTube, 2006
+![YouTube Picture](youtube2006.png)
 
+YouTube in 2006 was extremely cluttered. Listed at the top are the menu options, such as Home and Channels, similar to modern websites, however, the content underneath does not follow these modern standards.
+
+Videos are lined up from top to bottom on the home page and displays the date added, description, and even the tags the video was uploaded under. Comparing this to modern YouTube, the details that YouTube includes in the browsing menu seem unnecessary to me and are not pleasing to the eye. There is too much information for a preview of a video.
+
+To the right is the Member Login, which is strange to have as a sidebar on a website.
+I also noticed that when you scroll, the menus at the top disappear, meaning you must scroll back up to navigate to another menu. 
+
+In modern websites we expect previews of these videos and content to be simple and concise, and clicking reveals further information to the user. It is a standard that information that the typical user does not care about is hidden until clicked on. This creates a minimalist look for the site and is easy on the eyes. We also expect login pages to be their own separate page, not a sidebar on the home menu. It is very jarring because after years of websites following the same formula, seeing this type of formatting for a now very well known website is strange. 
+
+Although this site would not pass in today's standards, visiting YouTube in 2006 felt like opening a time capsule. It is very cool to see a website that is now worth billions back when it was first starting out.
 
 ---
 # Quick Start Guide
