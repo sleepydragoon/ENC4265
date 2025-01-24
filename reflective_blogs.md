@@ -26,7 +26,8 @@ In modern websites we expect previews of these videos and content to be simple a
 
 Although this site would not pass in today's standards, visiting YouTube in 2006 felt like opening a time capsule. It is very cool to see a website that is now worth billions back when it was first starting out.
 
-![YouTube GIF](Youtube_2018.gif)
+<img src="Youtube_2018.gif" alt=YouTube GIF width=50% height=50%>
+
 
 ---
 # Quick Start Guide
