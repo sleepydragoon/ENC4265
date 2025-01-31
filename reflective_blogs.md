@@ -46,9 +46,10 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
       </figure>
  5. To start a chat with a friend, click "All' at the top and click the message bubble icon next to the friend you would like to message.
  6. To start a direct message with multiple friends, click the '+' next to 'Direct Messages' and check the box next to the friends you would like to add to the DM. Then click 'Create DM'.
- 7. To set up your camera and microphone for calls, click the gear icon at the bottom left of the home page next to your username. Click 'Voice and Video' under App Settings. Here you can set up your input and output device. If you are unsure which device to use, select the Default.
- 8. To create or join an existing server, click the '+' icon on the left side. Click 'Create My Own' to create a server, or click 'Join a Server' and paste a server invite link to join an existing server.
- 9. To browse public servers, click the compass icon at the bottom left of the app and click to join any server that interests you.
+ 7. To start a call, click the three dots next to the message bubble icon on your friends list. Here you can start a video or voice call. Alternatively, click your Direct Message with the user you would like to call and click the viceo or phone icon to start a video or voice call.
+ 8. To set up your camera and microphone for calls, click the gear icon at the bottom left of the home page next to your username. Click 'Voice and Video' under App Settings. Here you can set up your input and output device. If you are unsure which device to use, select the Default.
+ 9. To create or join an existing server, click the '+' icon on the left side. Click 'Create My Own' to create a server, or click 'Join a Server' and paste a server invite link to join an existing server.
+ 10. To browse public servers, click the compass icon at the bottom left of the app and click to join any server that interests you.
  
    
 
