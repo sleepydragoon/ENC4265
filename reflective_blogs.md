@@ -34,6 +34,8 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 ## Discord 
 1. Click [this link](https://discord.com/download) to download Discord. Choose your download according to your device (Windows, Mac, Linux...).
 2. Double click the DiscordSetup.exe file.
+3. If you already have an account, log in with your information or QR code. If not, click Register and fill out the sign up fields.
+   ![Discord Login Page](DiscordLogin.png)
 
 
 # Reflective Blog 3
