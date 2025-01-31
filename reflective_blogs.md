@@ -39,7 +39,7 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 <img src="DiscordLogin.png" width="50%" height="50% alt=DisordLogin">
   <figcaption><em>Figure 1: Discord Login Screen</em></figcaption>
 </figure>
-<br></br>
+<br>
  4. Once logged in you can view the main page of Discord. At the top you can view and add friends, on the left are the servers you are in, and on the right shows what your friends are up to.
    
 
