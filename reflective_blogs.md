@@ -41,21 +41,21 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
       </figure>
  4. Once logged in you can view the main page of Discord. To add friends, click the green 'Add Friend' button at the top, type in their username, and click 'Send Friend Request'.
        <figure>
-         <img src="DiscordHome.png" width="70%" height="70% alt=Discord Home Page">
+         <img src="DiscordHome.png" width="80%" height="80% alt=Discord Home Page">
          <figcaption><em>Figure 2: Discord Home Screen</em></figcaption>
       </figure>
  5. To start a chat with a friend, click "All' at the top and click the message bubble icon next to the friend you would like to message.
  6. To start a direct message with multiple friends, click the '+' next to 'Direct Messages' and check the box next to the friends you would like to add to the DM. Then click 'Create DM'.
  7. To start a call, click the three dots next to the message bubble icon on your friends list. Here you can start a video or voice call. Alternatively, click your Direct Message with the user you would like to call and click the viceo or phone icon to start a video or voice call.
        <figure>
-         <img src="MessageMenu.png" width="70%" height="70% alt= Discord Message Menu">
+         <img src="MessageMenu.png" width="80%" height="80% alt= Discord Message Menu">
          <figcaption><em>Figure 3: Discord Messages Page</em></figcaption>
       </figure>
  9. To set up your camera and microphone for calls, click the gear icon at the bottom left of the home page next to your username. Click 'Voice and Video' under App Settings. Here you can set up your input and output device. If you are unsure which device to use, select the Default.
  10. To create or join an existing server, click the '+' icon on the left side. Click 'Create My Own' to create a server, or click 'Join a Server' and paste a server invite link to join an existing server.
  11. To browse public servers, click the compass icon at the bottom left of the app and click to join any server that interests you.
         <figure>
-         <img src="DiscoverPage.png" width="70%" height="70% alt= Discord Discover Page">
+         <img src="DiscoverPage.png" width="80%" height="80% alt= Discord Discover Page">
          <figcaption><em>Figure 4: Discord Discover Menu</em></figcaption>
       </figure>
  
