@@ -37,8 +37,11 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 3. If you already have an account, log in with your information or QR code. If not, click Register and fill out the sign up fields and sign in.
 <figure>
 <img src="DiscordLogin.png" width="50%" height="50% alt=DisordLogin">
-  <figcaption><em>Figure 1<em></figcaption>
+  <figcaption><em>Figure 1: Discord Login Screen</em></figcaption>
 </figure>
+
+
+4. 
 
 
 # Reflective Blog 3
