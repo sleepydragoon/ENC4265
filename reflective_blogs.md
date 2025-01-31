@@ -39,8 +39,6 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 <img src="DiscordLogin.png" width="50%" height="50% alt=DisordLogin">
   <figcaption>Figure 1</figcaption>
 </figure>
-*Figure 1*
-
 
 
 # Reflective Blog 3
