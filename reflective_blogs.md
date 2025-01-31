@@ -35,11 +35,11 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 1. Click [this link](https://discord.com/download) to download Discord. Choose your download according to your device (Windows, Mac, Linux...).
 2. Double click the DiscordSetup.exe file.
 3. If you already have an account, log in with your information or QR code. If not, click Register and fill out the sign up fields and sign in.
-<figure>
-<img src="DiscordLogin.png" width="50%" height="50% alt=DisordLogin">
-  <figcaption><em>Figure 1: Discord Login Screen</em></figcaption>
-</figure>
-<br>
+         <figure>
+         <img src="DiscordLogin.png" width="50%" height="50% alt=DisordLogin">
+           <figcaption><em>Figure 1: Discord Login Screen</em></figcaption>
+         </figure>
+         <br>
  4. Once logged in you can view the main page of Discord. At the top you can view and add friends, on the left are the servers you are in, and on the right shows what your friends are up to.
  5. To set up your camera and microphone for calls, click the gear icon at the bottom left of the home page next to your username. Click 'Voice and Video' under App Settings. Here you can set up your input and output device. If you are unsure which device to use select the Default.
  6. 
