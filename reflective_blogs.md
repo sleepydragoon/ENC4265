@@ -41,6 +41,9 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
 </figure>
 <br>
  4. Once logged in you can view the main page of Discord. At the top you can view and add friends, on the left are the servers you are in, and on the right shows what your friends are up to.
+ 5. To set up your camera and microphone for calls, click the gear icon at the bottom left of the home page next to your username. Click 'Voice and Video' under App Settings. Here you can set up your input and output device. If you are unsure which device to use select the Default.
+ 6. 
+ 
    
 
 # Reflective Blog 3
