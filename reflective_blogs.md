@@ -41,7 +41,7 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
       </figure>
  4. Once logged in you can view the main page of Discord. To add friends, click the green 'Add Friend' button at the top, type in their username, and click 'Send Friend Request'.
        <figure>
-         <img src="DiscordHome.png" width="50%" height="50% alt=Discord Home Page">
+         <img src="DiscordHome.png" width="70%" height="70% alt=Discord Home Page">
          <figcaption><em>Figure 2: Discord Home Screen</em></figcaption>
       </figure>
  5. To start a chat with a friend, click "All' at the top and click the message bubble icon next to the friend you would like to message.
