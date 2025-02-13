@@ -25,6 +25,6 @@ Recommendations:
 
 - **Add a Troubleshooting Section:** Include a troubleshooting section that covers the most common issues and any resolved issues to help users troubleshoot problems more efficiently.
 
-Implementing these recommendations will enhance the overall usability and effectiveness of the Adobe After Effects manual. Your attention to these matters is greatly appreciated.
+Implementing these recommendations will enhance the overall usability and effectiveness of the Adobe After Effects manual.
 
 <small>*Copilot was used to generate the text of this assignment from the prompt: "I evaluated the adobe after effects manual and it had these strengths: important words are bolded, steps are throughly written and concise, good use of tables to organize lots of information such as shortcuts on windows and mac, provides examples, these weaknesses: some sections are split across multiple pages, which can make it difficult for users to find info they are looking for, no troubleshooting guide. users would have to look to outside resources for troubleshooting, and I recommend these things -clearly outlining the specific part of the picture the section is talking about so the user doesn't have to search the image for what they are reading about. -add a troubleshooting section with the most common issues and any issues that have been solved. Create the body of a memo with this information."*</small>
