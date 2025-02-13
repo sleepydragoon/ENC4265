@@ -78,6 +78,7 @@ The bot is easy to use, often asking yes/no follow-up questions to further narro
    - For example, I asked the bot "Will I be billed after delivery?" and the bot responded by saying I could reschedule my delivery.
 - If your issue or question is unique/complicated, you may need to contact a real customer service representative for a helpful answer.
 
+*This reflective blog is free of synthetic text.*
 # Reflective Blog 4
 TBD
 
