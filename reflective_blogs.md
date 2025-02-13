@@ -62,7 +62,21 @@ Although this site would not pass in today's standards, visiting YouTube in 2006
    
 
 # Reflective Blog 3
-TBD
+## Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
+### UPS Chatbot
+#### Purpose
+The UPS chatbot was created to assist UPS customers in questions about shipping, tracking updates, billing, and account information.
+#### Functionality & User Experience
+The chatbot is able to answer basic questions about delivery and shipping. It can provide links to shipping details and even answer questions about your own delivery if given the tracking number. 
+The bot is easy to use, often asking yes/no follow-up questions to further narrow down your issue.
+#### Strengths
+- Fast answers to common questions.
+- Available 24/7 when real customer service representatives are not available.
+- Can answer questions about specific deliveries.
+#### Weaknesses
+- Occasionally, the chatbot will provide an answer that has nothing to do with the prompted question.
+   - For example, I asked the bot "Will I be billed after delivery?" and the bot responded by saying I could reschedule my delivery.
+- If your issue or question is unique/complicated, you may need to contact a real customer service representative for a helpful answer.
 
 # Reflective Blog 4
 TBD
