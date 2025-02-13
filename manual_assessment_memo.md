@@ -8,7 +8,7 @@
 **SUBJECT:** Recommendations for Adobe After Effects Manual  
 **DATE:** February 13, 2025  
 
-I evaluated the manual for Adobe After Effects, available at: (https://helpx.adobe.com/pdf/after_effects_reference.pdf)
+I evaluated the manual for Adobe After Effects, available at: <https://helpx.adobe.com/pdf/after_effects_reference.pdf>
 
 Strengths:  
 - **Important Words Highlighted:** Key terms and important information are consistently bolded, aiding users in quickly identifying critical content.
