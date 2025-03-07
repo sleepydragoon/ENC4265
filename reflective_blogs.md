@@ -83,7 +83,15 @@ The bot is easy to use, often asking yes/no follow-up questions to further narro
 TBD
 
 # Reflective Blog 5
-TBD
+## Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+### Honkai: Star Rail Chatbot
+Strengths: AI does well in scanning documents for specific details. For example, if you ask the bot a question and the relevant information is in different parts of the documents, it will compile the relevant data all in one place for you and give you a detailed summary. It also does well in imitating a personality. I gave my chatbot the personality of the companion Pom-Pom from the game Honkai: Star Rail. It was able to mimic the cheerful way he speaks and gave the bot a cute touch. 
+
+Weaknesses: The chatbot took some time to generate a response, even asking it simple questions regarding the game. I also had to re-prompt the AI to not use the word "bouncing" so much because the bot would get really repetitive in its responses, attempting at being very cheerful. I included data from the website <https://www.prydwen.gg/star-rail/>. This website is a community made wiki and a database for Honkai: Star Rail. It used all of the data that was available in text form on the website, however, it was unable to determine characters based off of the pictures displayed. For example, there is a list of the fastest clearing characters for a game mode, however instead of names the site uses pictures. The bot was unable to determine which characters the pictures were, and instead only knew the clear times as these were text based. 
+
+Future of Chatbots: In the future, chatbots will most likely be able to answer complex questions and provide more knowledge than a human customer service rep could, especially if trained on large databases. 
+
 
 # Reflective Blog 6
 TBD
