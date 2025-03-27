@@ -10,3 +10,5 @@
 - NVIDIA App (recording)
 - Microsoft Clipchamp (editing)
 - YouTube (editing)
+  
+This video was created without the use of AI.
