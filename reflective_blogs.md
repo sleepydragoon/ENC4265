@@ -103,6 +103,8 @@ TBD
 
 Prompt: "Create a quick start guide for setting up discord."
 
-Results: 
+Results:
 
+![AI results steps 1-3](image_2025-03-27_192618075.png)
+![AI results steps 4-5](image_2025-03-27_192631145.png)
 
