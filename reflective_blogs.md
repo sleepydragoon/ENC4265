@@ -99,7 +99,7 @@ TBD
 # Reflective Blog 7
 ## Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
 
-### AI Quick Start Guide for Discord
+### ChatGPT Quick Start Guide for Discord
 
 Prompt: "Create a quick start guide for setting up discord."
 
@@ -108,3 +108,11 @@ Results:
 ![AI results steps 1-3](image_2025-03-27_192618075.png)
 ![AI results steps 4-5](image_2025-03-27_192631145.png)
 
+Strengths:
+I used ChatGPT to generate the quick start assignment. ChatGPT did a good job organizing the steps using headings and bold text. The instructions are also concise and clear.
+
+Weaknesses:
+One major downside to using ChatGPT in creating guides is the inability to add pictures that aid in understanding the instructions. After the original prompt, I asked ChatGPT, "Can you add images of the software?" and ChatGPT responded saying it added images, however nothing was actually added to the results. This is a large disadvantage over creating traditional guides because images are very helpful tools for following along with a guide. 
+The instructions may also be a bit too concise. A guide should have detailed instructions that allow new users to follow along easily. 
+
+*This Reflective blog was created using ChatGPT to generate the guide using the prompt "Create a quick start guide for setting up discord.". The analysis is free of synthetic text.*
