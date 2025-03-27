@@ -97,4 +97,12 @@ Future of Chatbots: In the future, chatbots will most likely be able to answer c
 TBD
 
 # Reflective Blog 7
-TBD
+## Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
+
+### AI Quick Start Guide for Discord
+
+Prompt: "Create a quick start guide for setting up discord."
+
+Results: 
+
+
