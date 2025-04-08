@@ -15,6 +15,9 @@
 - Animation & Time Lapse
 - Exporting & Sharing Artwork
 
+# Introduction
+Welcome to your comprehensive guide for mastering digital art on Procreate for iPad. Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate has to offer.
+
 <img width="150" height="150" src="ff.gif">
 
 
