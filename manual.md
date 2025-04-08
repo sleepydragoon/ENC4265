@@ -5,8 +5,9 @@
 
 - Introduction
 - Getting Started
+    - Create a New Project
+    - Open a Project
 - Understanding the Workspace
-- Managing Canvas & Projects
 - Brushes & Tools
 - Layers & Masks
 - Colors & Palettes 
@@ -20,4 +21,8 @@ Welcome to your comprehensive guide for mastering digital art on Procreate for i
 
 <img width="150" height="150" src="ff.gif">
 
-
+# Getting Started
+## Tools
+- iPad (Procreate is an iPad exclusive)
+- Apple Pencil (recommended, works like a normal pencil and makes drawing more comfortable)
+Purchase and download Procreate from the App Store on your iPad. 
