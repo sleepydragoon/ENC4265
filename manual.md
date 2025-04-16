@@ -5,8 +5,16 @@
 
 - [Getting Started](#getting-started)
     - [Tools](#tools)
-    - Create a New Project
-    - Open a Project
+- Understanding the Gallery
+    - Create
+      - Default Canvas Templates
+      - Edit a Template
+      - Delete a Template
+      - Create a Custom Canvas
+    - Preview
+    - Photo
+    - Import
+    - Organization
 - Understanding the Workspace
 - Brushes & Tools
 - Layers & Masks
@@ -19,10 +27,21 @@
 <img align=center width="100%" height="100%" src="procreatelogo.png">
 Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
 
-Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate has to offer.
+Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate offers.
 
 # Getting Started
 ## Tools
 - iPad (Procreate is an iPad exclusive)
 - Apple Pencil (recommended, works like a normal pencil and makes drawing more comfortable)
 Purchase and download Procreate from the App Store on your iPad. 
+
+# Understanding the Gallery
+The Gallery is the main page of Procreate. Here, you can create new projects, preview existing projects, import photos and files, and organize your projects. The following will explain how to utilize the Gallery.
+
+## Create
+Tap the '+' icon at the top of the Gallery to create a new canvas.
+
+
+
+
+
