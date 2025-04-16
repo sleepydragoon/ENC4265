@@ -40,7 +40,8 @@ The Gallery is the main page of Procreate. Here, you can create new projects, pr
 
 ## Create
 Tap the '+' icon at the top of the Gallery to create a new canvas.
-<video loop src="createcanvas.mov">  video </video> 
+
+<img align=center width="100%" height="100%" src="createcanvas.gif">
 
 
 
