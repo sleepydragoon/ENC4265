@@ -52,13 +52,15 @@ Procreate offers the ability to edit existing templates
 1. Swipe left on an existing template to reveal the options menu.
 2. Tap 'Edit' to view the Custom Canvas options.
 
-a)<span style="color:red"> Canvas Name</span> - Tap to change the name of the canvas.
+<img align=center width="100%" height="100%" src="customcanvas.jpeg">
+
+a)<span style="color:red"> **Canvas Name**</span> - Tap to change the name of the canvas.
 
 b) Dimensions - Here you can change the width, height, and DPI of the canvas. (Note: the higher the resolution, the lower the maximum layers allowed)
 
 c) Color profile - Your project's colors will look different on different screens and media. Here, you can change the color profile to best fit your needs.
 
-d) Time-lapse settings - These are the settings for the exported time-lapse of this project. Here, you can change the resolution, compression, and file type.
+d) Time-lapse settings - These are the settings fo* the exported time-lapse of this project. Here, you can change the resolution, compression, and file type.
 
 e) Canvas Properties - Here, you can edit the default background color of the canvas or hide the background.
 
