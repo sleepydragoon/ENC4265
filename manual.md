@@ -4,6 +4,7 @@
 # Table of Contents
 
 - [Getting Started](#getting-started)
+    - [Tools](#tools)
     - Create a New Project
     - Open a Project
 - Understanding the Workspace
