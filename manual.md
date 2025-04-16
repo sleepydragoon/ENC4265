@@ -3,7 +3,7 @@
 # Procreate User Manual 
 # Table of Contents
 
-- Getting Started
+- [Getting Started](#getting-started)
     - Create a New Project
     - Open a Project
 - Understanding the Workspace
