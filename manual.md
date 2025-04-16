@@ -47,7 +47,7 @@ Tap the '+' icon at the top of the Gallery to create a new canvas.
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
 ### Edit a Template
-Procreate offers the ability to edit existing templates
+Procreate offers the ability to edit existing templates:
 
 1. Swipe left on an existing template to reveal the options menu.
 2. Tap 'Edit' to view the Custom Canvas options.
