@@ -114,5 +114,7 @@ OR:
 1. Tap 'Select' at the top of the Gallery.
 2. Select the projects to form the stack. (Must be 2 or more projects)
 3. Tap 'Stack'.
-   
+
+<img align=center width="100%" height="100%" src="stack.gif">
+
 This will create a folder, or "Stack" full of projects. More projects can be added to an existing stack using the same methods.
