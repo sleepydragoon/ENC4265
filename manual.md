@@ -8,8 +8,7 @@
 - Understanding the Gallery
     - Create
       - Default Canvas Templates
-      - Edit a Template
-      - Delete a Template
+      - Edit or Delete Templates
       - Create a Custom Canvas
     - Preview
     - Photo
@@ -46,13 +45,23 @@ Tap the '+' icon at the top of the Gallery to create a new canvas.
 ### Default Canvas Templates
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
-### Edit a Template
-Procreate offers the ability to edit existing templates:
+### Edit or Delete Templates
+Procreate offers the ability to edit or delete existing templates:
 
 1. Swipe left on an existing template to reveal the options menu.
-2. Tap 'Edit' to view the Custom Canvas options.
+2. To edit, tap 'Edit' to view the Custom Canvas options.
+3. To delete, tap 'Delete'.
+
+### Create a Custom Canvas
+Creating a custom canvas allows you to edit and customize each aspect of the canvas. 
+To create a custom canvas: 
+1. Tap the '+' icon at the top of the Gallery.
+2. Tap the canvas icon with a '+' to the right of 'New canvas'.
 
 <img align=center width="100%" height="100%" src="customcanvas.jpeg">
+This opens the Custom Canvas settings menu shown in figure (? - label figures later).
+
+The following is an explanation of each tab:
 
 <span style="color:red"> **(A) Canvas Name**</span> - Tap to change the name of the canvas.
 
