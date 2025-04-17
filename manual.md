@@ -37,15 +37,16 @@ Purchase and download Procreate from the App Store on your iPad.
 # Understanding the Gallery
 The Gallery is the main page of Procreate. Here, you can create new projects, preview existing projects, import photos and files, and organize your projects. The following will explain how to utilize the Gallery.
 
-## Create
-Tap the '+' icon at the top of the Gallery to create a new canvas.
+## Create a Canvas
+1. Tap the '+' icon at the top of the Gallery to create a new canvas.
+2. Select a canvas from the list to create a new project.
 
 <img align=center width="100%" height="100%" src="createcanvas.gif">
 
-### Default Canvas Templates
+## Default Canvas Templates
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
-### Edit or Delete Templates
+## Edit or Delete Templates
 Procreate offers the ability to edit or delete existing templates:
 
 1. Swipe left on an existing template to reveal the options menu.
