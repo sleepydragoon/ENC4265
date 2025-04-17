@@ -20,7 +20,6 @@
 - Colors & Palettes 
 - Transform & Adjustments
 - Selection & Actions
-- Animation & Time Lapse
 - Exporting & Sharing Artwork
 
 <img align=center width="100%" height="100%" src="procreatelogo.png">
