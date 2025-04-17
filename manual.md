@@ -53,7 +53,7 @@ Procreate offers the ability to edit or delete existing templates:
 2. To edit, tap 'Edit' to view the Custom Canvas options.
 3. To delete, tap 'Delete'.
 
-### Create a Custom Canvas
+## Create a Custom Canvas
 Creating a custom canvas allows you to edit and customize each aspect of the canvas. 
 To create a custom canvas: 
 1. Tap the '+' icon at the top of the Gallery.
