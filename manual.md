@@ -5,15 +5,15 @@
 
 - [Getting Started](#getting-started)
     - [Tools](#tools)
-- Understanding the Gallery
-    - Create
-      - Default Canvas Templates
-      - Edit or Delete Templates
-      - Create a Custom Canvas
-    - Preview
-    - Photo
-    - Import
-    - Organization
+- [Understanding the Gallery](#understanding-the-gallery)
+    - [Create a Canvas](#create-a-canvas)
+    - [Default Canvas Templates](#default-canvas-templates)
+    - [Edit or Delete Templates](#edit-or-delete-templates)
+    - [Create a Custom Canvas](#create-a-custom-canvas)
+    - [Preview](#preview)
+    - [Photo](#photo)
+    - [Import](#import)
+    - [Organization](#organization)
 - Understanding the Workspace
 - Brushes & Tools
 - Layers & Masks
@@ -70,8 +70,50 @@ The following is an explanation of each tab:
 
 <span style="color:green"> **(C) Color profile**</span> - Your project's colors will look different on different screens and media. Here, you can change the color profile to best fit your needs.
 
-<span style="color:blue"> **(D) Time-lapse settings**</span> - These are the settings fo* the exported time-lapse of this project. Here, you can change the resolution, compression, and file type.
+<span style="color:blue"> **(D) Time-lapse settings**</span> - These are the settings for the exported time-lapse of this project. Here, you can change the resolution, compression, and file type.
 
 <span style="color:purple"> **(E) Canvas properties**</span> - Here, you can edit the default background color of the canvas or hide the background.
 
-3. Click 'Save' at the top right to save your changes.
+ 3. Click 'Save' at the top right to save your changes.
+
+## Preview
+Procreate allows you to preview your existing artworks in the Gallery. 
+
+There are two ways to preview your artwork:
+1. Pinch to zoom in on an artwork
+2. Tap 'Select', check the circles for the artworks you'd like to view, then tap 'Preview'.
+
+## Photo
+To import a photo:
+1. Tap 'Photo' at the top right of the Gallery. This will open your photo gallery.
+2. Select the image to import.
+
+The photo will be added to the Gallery and open the workspace for editing.
+
+## Import
+To import files:
+1. Tap 'Import" at the top right of the Gallery. This will open your files on iPad. 
+2. Select the file to import.
+
+The file will be imported to the Gallery and open the workspace for editing.
+
+## Organization
+The Gallery is able to be rearranged, and projects are able to be stacked. You may also share, duplicate, and delete projects from the Gallery.
+
+### Rearrange
+To reorder projects in the Gallery: 
+1. Tap and hold the project you'd like to move
+2. While still holding, drag the project to where you'd like to rearrange it, and release.
+
+### Stack
+To stack projects together: 
+1. Tap and hold a project
+2. Drag the project onto another project and release.
+
+OR:
+
+1. Tap 'Select' at the top of the Gallery.
+2. Select the projects to form the stack. (Must be 2 or more projects)
+3. Tap 'Stack'.
+   
+This will create a folder, or "Stack" full of projects. More projects can be added to an existing stack using the same methods.
