@@ -148,7 +148,9 @@ Colors: Select colors with the color wheel. Here, you can create or import color
   <img src="manualimages/sidebar.jpg"
        style="width:6%; vertical-align:top; display:inline-block;" />
   <span style="vertical-align:top; margin-left:6px;">
-    hihihi
+hi 
+
+there 
   </span>
 </p>
 
