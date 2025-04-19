@@ -16,7 +16,7 @@
     - [Organization](#organization)
 - [Understanding the Workspace](#understanding-the-workspace)
     - [Painting Tools](#painting-tools)
-    - [Side Bar](#side-bar)
+    - [Side Bar](#sidebar)
     - [Editing Tools](#editing-tools)
 - Brushes & Tools
 - Layers & Masks
@@ -135,26 +135,43 @@ Procreate's Workspace is minimalistic and compact, allowing artists to focus on 
 
 <img align=center width="100%" height="100%" src="manualimages/paintingtools.jpg">
 
-Brush Library: Swap between brushes. Here, you can import and edit custom brushes and organize the brush library.
+1: Brush Library: Swap between brushes. Here, you can import and edit custom brushes and organize the brush library.
 
-Smudge Tool: Blend lines and colors with the smudge tool.
+2: Smudge Tool: Blend lines and colors with the smudge tool.
 
-Eraser Tool: Erase mistakes with custom eraser brushes.
+3: Eraser Tool: Erase mistakes with custom eraser brushes.
 
-Layers: View, edit, and organize layers.
+4: Layers: View, edit, and organize layers.
 
-Colors: Select colors with the color wheel. Here, you can create or import color palettes.
+5: Colors: Select colors with the color wheel. Here, you can create or import color palettes.
 
 ## Side Bar
 <img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">     
-hi 
+1 - Brush Size Slider: Drag the slider up to increase brush size, drag down to decrease.
 
-there
+2 - Modify Button: Customizable button for tools. The default settings brings up the eyedropper.
 
+3 - Brush Opacity: Drag the slider up or down to increase or decrease brush opacity.
 
 
 ## Editing Tools
 
 <img align=center width="100%" height="100%" src="manualimages/editingtools.jpg">
 
+1 - Gallery: Tap to go back to the Gallery
 
+2 - Actions: Opens the action menu where you can add files, adjust the canvas, share your project, and export time-lapse replay
+
+3 - Adjustments: Opens the adjustments menu where you can adjust colors and visual effects
+
+4 - Selections: Use the selection tool to isolate and select specific sections of your artwork 
+
+5 - Transform: Use the transform tool to resize and shape your layers or selection.
+
+
+# Brushes & Tools 
+# Layers & Masks
+# Colors & Palettes 
+# Transform & Adjustments
+# Selection & Actions
+# Exporting & Sharing Artwork
