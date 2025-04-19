@@ -125,7 +125,7 @@ This will create a folder, or "Stack" full of projects. More projects can be add
 # Understanding the Workspace
 Procreate's Workspace is minimalistic and compact, allowing artists to focus on their project at hand.
 
-<img align=center width="100%" height="100%" src="manualimages/workspace.png">
+<img align=center width="100%" height="100%" src="manualimages/workspace.jpg">
 
 
 ## Painting Tools
