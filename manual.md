@@ -145,7 +145,7 @@ Colors: Select colors with the color wheel. Here, you can create or import color
 ## Side Bar
 
 <img width="6%" height="6%" src="manualimages/sidebar.jpg">
-<div style="text-align:right;">
+<div style="float:right;">
     HIHIHIHI
 </div>
 
