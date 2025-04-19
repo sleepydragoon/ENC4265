@@ -120,3 +120,23 @@ OR:
 <img align=center width="100%" height="100%" src="stack.gif">
 
 This will create a folder, or "Stack" full of projects. More projects can be added to an existing stack using the same methods.
+
+
+# Understanding the Workspace
+Procreate's Workspace is minimalistic and compact, allowing artists to focus on their project at hand.
+
+## Painting Tools
+Brush Library: Swap between brushes. Here, you can import and edit custom brushes and organize the brush library.
+
+Smudge Tool: Blend lines and colors with the smudge tool.
+
+Eraser Tool: Erase mistakes with custom eraser brushes.
+
+Layers: View, edit, and organize layers.
+
+Colors: Select colors with the color wheel. Here, you can create or import color palettes.
+
+
+## Side Bar
+## Editing Tools
+
