@@ -146,10 +146,7 @@ Layers: View, edit, and organize layers.
 Colors: Select colors with the color wheel. Here, you can create or import color palettes.
 
 ## Side Bar
-
-
-<img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">
-       
+<img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">     
 hi 
 
 there
