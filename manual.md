@@ -125,7 +125,13 @@ This will create a folder, or "Stack" full of projects. More projects can be add
 # Understanding the Workspace
 Procreate's Workspace is minimalistic and compact, allowing artists to focus on their project at hand.
 
+<img align=center width="100%" height="100%" src="manualimages/workspace.PNG">
+
+
 ## Painting Tools
+
+<img align=center width="100%" height="100%" src="manualimages/paintingtools.jpg">
+
 Brush Library: Swap between brushes. Here, you can import and edit custom brushes and organize the brush library.
 
 Smudge Tool: Blend lines and colors with the smudge tool.
@@ -136,7 +142,14 @@ Layers: View, edit, and organize layers.
 
 Colors: Select colors with the color wheel. Here, you can create or import color palettes.
 
-
 ## Side Bar
+
+<img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">
+
+
+
 ## Editing Tools
+
+<img align=center width="100%" height="100%" src="manualimages/editingtools.jpg">
+
 
