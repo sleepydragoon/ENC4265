@@ -18,12 +18,12 @@
     - [Painting Tools](#painting-tools)
     - [Side Bar](#sidebar)
     - [Editing Tools](#editing-tools)
-- Brushes & Tools
-- Layers & Masks
-- Colors & Palettes 
-- Transform & Adjustments
-- Selection & Actions
-- Exporting & Sharing Artwork
+- [Brushes & Tools](#brushes-&-tools)
+- [Layers & Masks](#layers-&-masks)
+- [Colors & Palettes](#colors-&-palettes)
+- [Transform & Adjustments](#transform-&-adjustments)
+- [Selection & Actions](#selection-&-actions)
+- [Exporting & Sharing Artwork](#exporting-&-sharing-artwork)
 
 <img align=center width="100%" height="100%" src="manualimages/procreatelogo.png">
 Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
