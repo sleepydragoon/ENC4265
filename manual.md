@@ -14,7 +14,10 @@
     - [Photo](#photo)
     - [Import](#import)
     - [Organization](#organization)
-- Understanding the Workspace
+- [Understanding the Workspace](#understanding-the-workspace)
+    - [Painting Tools](#painting-tools)
+    - [Side Bar](#side-bar)
+    - [Editing Tools](#editing-tools)
 - Brushes & Tools
 - Layers & Masks
 - Colors & Palettes 
