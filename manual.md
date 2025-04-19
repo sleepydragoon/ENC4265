@@ -22,7 +22,7 @@
 - Selection & Actions
 - Exporting & Sharing Artwork
 
-<img align=center width="100%" height="100%" src="procreatelogo.png">
+<img align=center width="100%" height="100%" src="manualimages/procreatelogo.png">
 Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
 
 Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate offers.
@@ -40,12 +40,12 @@ The Gallery is the main page of Procreate. Here, you can create new projects, pr
 1. Tap the '+' icon at the top of the Gallery to create a new canvas.
 2. Select a canvas from the list to create a new project.
 
-<img align=center width="100%" height="100%" src="createcanvas.gif">
+<img align=center width="100%" height="100%" src="manualimages/createcanvas.gif">
 
 ## Default Canvas Templates
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
-<img align=center width="50%" height="50%" src="defaulttemplate.png">
+<img align=center width="50%" height="50%" src="manualimages/defaulttemplate.png">
 
 ## Edit or Delete Templates
 Procreate offers the ability to edit or delete existing templates:
@@ -60,7 +60,7 @@ To create a custom canvas:
 1. Tap the '+' icon at the top of the Gallery.
 2. Tap the canvas icon with a '+' to the right of 'New canvas'.
 
-<img align=center width="100%" height="100%" src="customcanvas.jpeg">
+<img align=center width="100%" height="100%" src="manualimages/customcanvas.jpeg">
 This opens the Custom Canvas settings menu shown in figure (? - label figures later).
 
 The following is an explanation of each tab:
@@ -117,7 +117,7 @@ OR:
 2. Select the projects to form the stack. (Must be 2 or more projects)
 3. Tap 'Stack'.
 
-<img align=center width="100%" height="100%" src="stack.gif">
+<img align=center width="100%" height="100%" src="manualimages/stack.gif">
 
 This will create a folder, or "Stack" full of projects. More projects can be added to an existing stack using the same methods.
 
