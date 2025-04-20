@@ -19,11 +19,18 @@
     - [Side Bar](#sidebar)
     - [Editing Tools](#editing-tools)
 - [Brushes & Tools](#brushes--tools)
+    - [Brush Library](#brush-library)
+    - [Customizing and Creating Brushes](#customizing-and-creating-brushes)
+    - [Smudge and Erase](#smudge-and-erase)
+    - [Importing and Exporting Brushes](#importing-and-exporting-brushes)
 - [Layers & Masks](#layers--masks)
 - [Colors & Palettes](#colors--palettes)
 - [Transform & Adjustments](#transform--adjustments)
 - [Selection & Actions](#selection--actions)
+- [Touch Gestures and Shortcuts](#touch-gestures-and-shortcuts)
 - [Exporting & Sharing Artwork](#exporting--sharing-artwork)
+- [AI Statement](#ai-statement)
+- [References](#references)
 
 <img align=center width="100%" height="100%" src="manualimages/procreatelogo.png">
 Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
@@ -170,8 +177,66 @@ Procreate's Workspace is minimalistic and compact, allowing artists to focus on 
 
 
 # Brushes & Tools 
+Procreate offers an extensive collection of brushes, smudge tools, and erasers to bring impressive detail to your artworks.
+## Brush Library
+Procreate comes equipped with an extensive default brush library, organized into categories such as Sketching, Inking, and Painting. Each category is tailored for specific needs. 
+
+- Sketching Brushes: Best suited brushes for rough sketches
+- Inking Brushes: Best suited for clean line art
+- Painting Brushes: Imitate real paintbrushes for the traditional painted look
+  
+## Customizing and Creating Brushes 
+Procreate allows artists to fully customize brushes in the Brush Library: 
+1. Tap on a brush to open its settings.
+2. In the Brush Studio, you can adjust various settings such as stroke path, stabilization, taper, grain, and more.
+3. Adjust the brush settings to suit your unique art style.
+
+Procreate also allows artists to create brushes from scratch:
+1. Tap the '+' icon at the top-right corner of the Brush Library. This creates a nnew brush with default settings.
+2. Adjust the brush settings to your liking.
+3. Tap the category 'About this brush' to change the brush name
+4. Tap 'Done' at the top-right to save your new brush.
+   
+## Smudge and Erase
+In addition to brushes, Procreate offers Smudge and Erase tools:
+- Smudge Tool: Blend colors and create gradients. Select any brush from your Brush Library to control the smudge effects
+- Erase Tool: Erase or soften parts of your artwork. Select any brush to change the effect.
+## Importing and Exporting Brushes
+Expand your Brush Library through importing external brushes and sharing your own:
+- Import Brushes: Tap the '+' icon in the Brush Library menu and select 'Import' to import .brush or .brushset files to import single or sets of brushes.
+- Export Brushes: Swipe left on any brush and select 'Share' to export and share your brush file with others. To share a set of brushes, tap the brushset's name in the Brush Library and select 'Share'.
 # Layers & Masks
+## Creating and Managing Layers
+## Blend Modes
+## Alpha Lock and Clipping Masks
+## Layer Adjustmets
+
 # Colors & Palettes 
+## Color Wheel and Eyedropper
+## Creating and Managing Palettes
+## ColorDrop and Recolor
+## Gradients and Color Adjustments
+
 # Transform & Adjustments
+## Transform Tools
+## Liquify and Distortion
+## Color Adjustments
+## Blur and Sharpening
+## Filters and Effects
+
 # Selection & Actions
+## Selection Tools
+## Copy, Paste, and Cut
+## Filling and Masking Selections
+
+# Touch Gestures and Shortcuts
+
 # Exporting & Sharing Artwork
+## Exporting File Formats
+## Export as a PNG
+
+# AI Statement
+ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual"
+# References
+Procreate Logo from Procreate.
+All other images and animations created by me with Procreate and Procreate Dreams.
