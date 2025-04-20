@@ -210,19 +210,24 @@ In addition to brushes, Procreate offers Smudge and Erase tools:
 ## Importing and Exporting Brushes
 Expand your Brush Library through importing external brushes and sharing your own:
 - Import Brushes: Tap the '+' icon in the Brush Library menu and select 'Import' to import .brush or .brushset files to import single or sets of brushes.
+
 - Export Brushes: Swipe left on any brush and select 'Share' to export and share your brush file with others. To share a set of brushes, tap the brushset's name in the Brush Library and select 'Share'.
 
 
 # Layers & Masks
+
 ## Creating and Managing Layers
 Layers help you organize your artwork. Work independently on different elements of your work withing affecting other parts.
 
 ### Create a New Layer: 
 - Tap the '+' icon in the Layers menu.
+
 ### Reorder Layers: 
 - Drag the layer up or down.
+
 ### Group Layers:
 - Swipe right on multiple layers and tap 'Group'. Alternatively, drag and drop one layer onto another to group.
+
 ### Rename Layers:
 - Tap on the layer and then tap 'Rename'.
 
@@ -240,14 +245,19 @@ Procreate offers many blend modes such as darkening options, lightening options,
 
 ## Layer Adjustments
 Procreate offers layer adjustments such as opacity, visibility, merging, duplicating, deleting, locking.
+
 ### Change Layer Opacity 
 - Tap the 'N' next to the layer and adjust the opacity slider.
+
 ### Hide or Reveal Layers
 - Toggle the checkmark next to the layer to show or hide its contents.
+
 ### Merge Layers
 - Pinch two layers together or select a layer and  select 'Merge' Down to merge two layers.
+
 ### Duplicate or Delete Layers
 - Swipe left on a layer and select 'Duplicate' or 'Delete'.
+
 ### Lock Layers
 - Swipe left on a layer and select 'Lock' to lock it. Locking the layer prevents any further changes on this layer. Select 'Unlock' to unlock a layer.
 
