@@ -24,6 +24,10 @@
     - [Smudge and Erase](#smudge-and-erase)
     - [Importing and Exporting Brushes](#importing-and-exporting-brushes)
 - [Layers & Masks](#layers--masks)
+    - [Creating and Managing Layers](#creating-and-managing-layers)
+    - [Blend Modes](#blend-modes)
+    - [Alpha Lock and Clipping Masks](#alpha-lock-and-clipping-masks)
+    - [Layer Adjustments](#layer-adjustments)
 - [Colors & Palettes](#colors--palettes)
 - [Transform & Adjustments](#transform--adjustments)
 - [Selection & Actions](#selection--actions)
@@ -201,15 +205,53 @@ Procreate also allows artists to create brushes from scratch:
 In addition to brushes, Procreate offers Smudge and Erase tools:
 - Smudge Tool: Blend colors and create gradients. Select any brush from your Brush Library to control the smudge effects
 - Erase Tool: Erase or soften parts of your artwork. Select any brush to change the effect.
+
+
 ## Importing and Exporting Brushes
 Expand your Brush Library through importing external brushes and sharing your own:
 - Import Brushes: Tap the '+' icon in the Brush Library menu and select 'Import' to import .brush or .brushset files to import single or sets of brushes.
 - Export Brushes: Swipe left on any brush and select 'Share' to export and share your brush file with others. To share a set of brushes, tap the brushset's name in the Brush Library and select 'Share'.
+
+
 # Layers & Masks
 ## Creating and Managing Layers
+Layers help you organize your artwork. Work independently on different elements of your work withing affecting other parts.
+
+### Create a New Layer: 
+- Tap the '+' icon in the Layers menu.
+### Reorder Layers: 
+- Drag the layer up or down.
+### Group Layers:
+- Swipe right on multiple layers and tap 'Group'. Alternatively, drag and drop one layer onto another to group.
+### Rename Layers:
+- Tap on the layer and then tap 'Rename'.
+
 ## Blend Modes
+Blend modes change how layers interact with each other. 
+
+### Change Blend Mode:
+- Tap the 'N' next to the layer in the Layers menu.
+
+Procreate offers many blend modes such as darkening options, lightening options, multiply, and more. Experiment with blend modes to transform your artwork.
+
 ## Alpha Lock and Clipping Masks
-## Layer Adjustmets
+- Alpha Lock: Restricts painting to the existing pixels on a layer. Enable Alpha Lock by tapping on a layer and selecting 'Alpha Lock'. Alpha Lock is useful for adjusting colors of a layer without changing the existing shape.
+- Clipping Masks: Allows painting on a separate layer while restricting the painting to the pixels of the layer below it. Create a clipping mask by tapping the top layer and selecting 'Clipping Mask'.
+
+## Layer Adjustments
+Procreate offers layer adjustments such as opacity, visibility, merging, duplicating, deleting, locking.
+### Change Layer Opacity 
+- Tap the 'N' next to the layer and adjust the opacity slider.
+### Hide or Reveal Layers
+- Toggle the checkmark next to the layer to show or hide its contents.
+### Merge Layers
+- Pinch two layers together or select a layer and  select 'Merge' Down to merge two layers.
+### Duplicate or Delete Layers
+- Swipe left on a layer and select 'Duplicate' or 'Delete'.
+### Lock Layers
+- Swipe left on a layer and select 'Lock' to lock it. Locking the layer prevents any further changes on this layer. Select 'Unlock' to unlock a layer.
+
+Layers allow easy and specific adjustments to parts of your work without affecting other layers. 
 
 # Colors & Palettes 
 ## Color Wheel and Eyedropper
