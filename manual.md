@@ -319,8 +319,10 @@ Transform tools allow for manipulation of shapes in your work.
 - Uniform: Resize shape while maintaining the proportions.
 - Distort: Distort the shape's structure on a single plane axis
 - Warp: Change the shape's structure on multiple axises, allowing it to fold on top of itself.
+
 ## Liquify 
 Liquify allows you to push, pull and swirl your art to create a "liquified" effect.
+
 To access liquify:
 
 1. Open the adjustments menu (the magic wand)
