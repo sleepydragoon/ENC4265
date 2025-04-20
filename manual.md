@@ -29,10 +29,22 @@
     - [Alpha Lock and Clipping Masks](#alpha-lock-and-clipping-masks)
     - [Layer Adjustments](#layer-adjustments)
 - [Colors & Palettes](#colors--palettes)
+    - [Color Wheel and Eyedropper](#color-wheel-and-eyedropper)
+    - [Creating and Managing Palettes](#creating-and-managing-palettes)
 - [Transform & Adjustments](#transform--adjustments)
+    - [Transform Tools](#transform-tools)
+    - [Liquify and Distortion](#liquify-and-distortion)
+    - [Color Adjustments](#color-adjustments)
+    - [Blur](#blur)
+    - [Filters and Effects](#filters-and-effects)
 - [Selection & Actions](#selection--actions)
+    - [Selection Tools](#selection-tools)
+    - [Copy, Paste, and Cut](#copy-paste-and-cut)
+    - [Filling and Masking Selections](#filling-and-masking-selections)
 - [Touch Gestures and Shortcuts](#touch-gestures-and-shortcuts)
 - [Exporting & Sharing Artwork](#exporting--sharing-artwork)
+    - [Exporting File Formats](#exporting-file-formats)
+    - [Export as a PNG](#export-as-a-png)
 - [AI Statement](#ai-statement)
 - [References](#references)
 
@@ -265,15 +277,64 @@ Layers allow easy and specific adjustments to parts of your work without affecti
 
 # Colors & Palettes 
 ## Color Wheel and Eyedropper
+Procreate's color wheel lets you select and fine tune colors for your work. 
+
+### Color Wheel Tabs
+- Disc: A circular color wheel to change the hue, saturation, and brightness
+- Classic: Basic slides for hue, saturation, and brightness
+- Harmony: Finds the complementary color for the current color
+- Value: Enter specific HSB, RGB, or Hexadecimal value colors.
+
+### Eyedropper
+The eyedropper allows you to pick exact colors from your canvas. 
+- Press and hold your finger on the canvas to sample a color.
+  (make a gif of this)
+
+### ColorDrop 
+Color drop works as a fill bucket to fill areas with solid color.
+
+- Drag the color from the color circle onto your canvas to fill the area with that color.
+  
 ## Creating and Managing Palettes
-## ColorDrop and Recolor
-## Gradients and Color Adjustments
+Palettes allow you to save and organize colors
+
+### Create a palette: 
+1. Open the color wheel and select 'Palettes'
+2. Tap the '+' icon at the top-right to create a new palette. Palettes can be created from scratch or from photos and files.
+
+### Rename palette:
+1. Tap the palette name and type the new name.
+
+### Reorder Palettes:
+1. Drag a palette up or down to reorganize the palette menu.
+
+### Share or Delete a Palette: 
+1. Tap the elipses at the top-right of the palette
+2. Select 'Delete' to delete the palette. Select 'Share' to share the palette.
 
 # Transform & Adjustments
 ## Transform Tools
-## Liquify and Distortion
+Transform tools allow for manipulation of shapes in your work. 
+- Freeform: Scale shape while changing proportions. Can stretch and compress shapes.
+- Uniform: Resize shape while maintaining the proportions.
+- Distort: Distort the shape's structure on a single plane axis
+- Warp: Change the shape's structure on multiple axises, allowing it to fold on top of itself.
+## Liquify 
+Liquify allows you to push, pull and swirl your art to create a "liquified" effect.
+To access liquify:
+
+1. Open the adjustments menu (the magic wand)
+2. Select liquify
+
 ## Color Adjustments
-## Blur and Sharpening
+Color adjustments includes:
+- Hue, Saturation, Brightness: Change the HSB values with sliders.
+- Color Balance: Adjust color scheme by changing the balance of hues
+- Curves: Advanced modification of colors and balance. 
+- Gradient Map: Apply gradient across your work. Changes colors based on the highlights, midtones, and shadows and maps them to the gradient map.
+
+## Blur
+
 ## Filters and Effects
 
 # Selection & Actions
