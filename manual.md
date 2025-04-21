@@ -33,14 +33,13 @@
     - [Creating and Managing Palettes](#creating-and-managing-palettes)
 - [Transform & Adjustments](#transform--adjustments)
     - [Transform Tools](#transform-tools)
-    - [Liquify and Distortion](#liquify-and-distortion)
+    - [Liquify](#liquify)
     - [Color Adjustments](#color-adjustments)
     - [Blur](#blur)
     - [Filters and Effects](#filters-and-effects)
 - [Selection & Actions](#selection--actions)
     - [Selection Tools](#selection-tools)
     - [Copy, Paste, and Cut](#copy-paste-and-cut)
-    - [Filling and Masking Selections](#filling-and-masking-selections)
 - [Touch Gestures and Shortcuts](#touch-gestures-and-shortcuts)
 - [Exporting & Sharing Artwork](#exporting--sharing-artwork)
     - [Exporting File Formats](#exporting-file-formats)
@@ -336,15 +335,66 @@ Color adjustments includes:
 - Gradient Map: Apply gradient across your work. Changes colors based on the highlights, midtones, and shadows and maps them to the gradient map.
 
 ## Blur
+Procreate offers three types of blur adjustments:
+
+- Gaussian Blur: Smooths gradients and soft effect.
+- Motion Blur: Simulates movement.
+- Perspective Blur: Simulates perspective blur around a point.
 
 ## Filters and Effects
+Procreate pffers six different filters and effects to add to your work: 
+
+- Noise: Add grain to your image for a vintage look.
+- Sharpen: Enhance details for a crisp image.
+- Bloom: Add a glow to your work.
+- Glitch: Add various glitch effects
+- Halftone: Creates a halftone print-like look
+- Chromatic Aberration: Creates color halos on the edges of the image to mimic a camera lens.
 
 # Selection & Actions
 ## Selection Tools
+Procreate's selection tool allows you to isolate areas of your artwork. 
+
+To use selection, tap the 'S'-looking icon and choose from:
+- Automatic: Automatically selects the area you tap on.
+- Freehand: Draw to select complex shapes.
+- Rectangle: Select areas in a rectangle.
+- Ellipse: Select areas in an ellipse.
+
 ## Copy, Paste, and Cut
-## Filling and Masking Selections
+After selecting an area, you can easily copy, paste, or cut selections:
+- Copy: Tap the wrench icon to bring up the actions menu, then select 'Copy' to duplicate the selection to the clipboard.
+- Paste: In the actions menu, select 'Paste' to insert the selection in a new layer.
+- Cut: Removes the selected area and copies it to the clipboard.
 
 # Touch Gestures and Shortcuts
+Touch Gestures allow for easy access to tools such as rotate and zoom, undo and redo, clearing layers, and more.
+
+## Touch to Paint
+- Use your finger or Apple Pencil to paint on the canvas.
+
+## Pinch to Zoom/Rotate
+- Pinch your fingers together to zoom out.
+- Pinch your fingers apart to zoom in.
+- Pinch and twist your fingers to rotate.
+
+## Fit to Screen
+- Quickly pinch your fingers together to fit the canvas to the screen.
+- Quickly pinch yours fingers apart to go back to the previous view of the canvas.
+
+## Tap to Undo
+- Two finger tap to undo recent actions.
+- To rapidly undo, tap two fingers and hold.
+
+## Tap to Redo
+- Three finger tap to redo recent actions.
+- To rapidly redo, tap three fingers and hold.
+
+## Clear Layer
+- Move three fingers in a scrubbing motion to clear the current layer.
+
+## Fullscreen
+- Use four fingers to tap on the canvas to hide the interface. Tap with four fingers to bring the interface back.
 
 # Exporting & Sharing Artwork
 ## Exporting File Formats
