@@ -397,8 +397,31 @@ Touch Gestures allow for easy access to tools such as rotate and zoom, undo and 
 - Use four fingers to tap on the canvas to hide the interface. Tap with four fingers to bring the interface back.
 
 # Exporting & Sharing Artwork
+Export and share your work from the actions menu.
+1. Tap the actions menu (the gear icon)
+2. Select 'Share'
+3. Share image or layers with your preferred file format.
+   
 ## Exporting File Formats
-## Export as a PNG
+Procreate offers many file formats, each best for a different need:
+
+### Share Image
+- Procreate:
+- PSD:
+- PDF:
+- JPEG:
+- PNG:
+- TIFF
+
+### Share Layers
+- PDF:
+- PNG Files:
+- Animated GIF:
+- Animated PNG:
+- Animated MP4:
+- Animated HVEC:
+
+(add gif of sharing example)
 
 # AI Statement
 ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual"
