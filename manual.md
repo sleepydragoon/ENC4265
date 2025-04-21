@@ -406,20 +406,18 @@ Export and share your work from the actions menu.
 Procreate offers many file formats, each best for a different need:
 
 ### Share Image
-- Procreate:
-- PSD:
-- PDF:
-- JPEG:
-- PNG:
-- TIFF
+- Procreate: Native format for procreate files. Preserves all layers, masks, adjustments.
+- PSD: Native Adobe Photoshop file. Also preserves all layers, masks, and adjustments. 
+- PDF: Used for print quality and layout preservation. Does not preserve layers.
+- JPEG: Exchanges visual quality for a smaller file size. Does not support transparency or layers.
+- PNG: Keeps full quality of the image in exchange for a larger file size. Supports transparency. Does not preserve layers.
+- TIFF Full quality export and ideal for printing. Does not perserve layers.
 
 ### Share Layers
-- PDF:
-- PNG Files:
-- Animated GIF:
-- Animated PNG:
-- Animated MP4:
-- Animated HVEC:
+- PDF: Export layers to a PDF with multiple pages. 
+- PNG Files: Exports layers as separate PNG files into a folder.
+- Animated GIF/PNG/MP4/HEVC: Creates a looped animation with each layer being a single frame.
+
 
 (add gif of sharing example)
 
