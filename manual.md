@@ -439,11 +439,9 @@ Procreate offers many file formats, each best for a different need:
 - PNG Files: Exports layers as separate PNG files into a folder.
 - Animated GIF/PNG/MP4/HEVC: Creates a looped animation with each layer being a single frame.
 
-
-(add gif of sharing example)
-
 # AI Statement
 ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual"
 # References
-Procreate Logo from Procreate.
+Procreate Logo from: https://logos-world.net/wp-content/uploads/2023/02/Procreate-Emblem.png
+
 All other images and animations created by me with Procreate and Procreate Dreams.
