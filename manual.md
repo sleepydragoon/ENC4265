@@ -90,7 +90,7 @@ To create a custom canvas:
 <img align=center width="100%" height="100%" src="manualimages/customcanvas.jpeg">
 *Figure C: Custom Canvas Menu labeled*
 
-This opens the Custom Canvas settings menu shown in figure (? - label figures later).
+This opens the Custom Canvas settings menu shown in *Figure C*
 
 The following is an explanation of each tab:
 
