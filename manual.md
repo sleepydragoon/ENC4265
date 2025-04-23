@@ -56,6 +56,7 @@ Procreate is a powerful tool that provides studio-quality resources at your fing
 ## Tools
 - iPad (Procreate is an iPad exclusive)
 - Apple Pencil (recommended, works like a normal pencil and makes drawing more comfortable)
+
 Purchase and download Procreate from the App Store on your iPad. 
 
 # Understanding the Gallery
