@@ -288,6 +288,8 @@ Layers allow easy and specific adjustments to parts of your work without affecti
 ## Color Wheel and Eyedropper
 Procreate's color wheel lets you select and fine tune colors for your work. 
 
+<img align=center width="100%" height="100%" src="manualimages/colorwheel.PNG">
+
 ### Color Wheel Tabs
 - Disc: A circular color wheel to change the hue, saturation, and brightness
 - Classic: Basic slides for hue, saturation, and brightness
@@ -297,7 +299,6 @@ Procreate's color wheel lets you select and fine tune colors for your work.
 ### Eyedropper
 The eyedropper allows you to pick exact colors from your canvas. 
 - Press and hold your finger on the canvas to sample a color.
-  (make a gif of this)
 
 ### ColorDrop 
 Color drop works as a fill bucket to fill areas with solid color.
