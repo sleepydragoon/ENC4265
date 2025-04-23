@@ -72,6 +72,7 @@ The Gallery is the main page of Procreate. Here, you can create new projects, pr
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
 <img align=center width="50%" height="50%" src="manualimages/defaulttemplate.png">
+
 *Figure B: Canvas templates*
 
 ## Edit or Delete Templates
