@@ -176,6 +176,7 @@ Procreate's Workspace is minimalistic and compact, allowing artists to focus on 
 
 ## Side Bar
 <img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">
+
 *Figure G: Side bar panel*
 
 1 - Brush Size Slider: Drag the slider up to increase brush size, drag down to decrease.
