@@ -66,11 +66,13 @@ The Gallery is the main page of Procreate. Here, you can create new projects, pr
 2. Select a canvas from the list to create a new project.
 
 <img align=center width="100%" height="100%" src="manualimages/createcanvas.gif">
+*Figure A: Canvas creation*
 
 ## Default Canvas Templates
 In the New canvas menu, procreate offers a variety of default canvas templates to choose from depending on your needs. Below is an image of the default canvases available.
 
 <img align=center width="50%" height="50%" src="manualimages/defaulttemplate.png">
+*Figure B: Canvas templates*
 
 ## Edit or Delete Templates
 Procreate offers the ability to edit or delete existing templates:
@@ -86,6 +88,7 @@ To create a custom canvas:
 2. Tap the canvas icon with a '+' to the right of 'New canvas'.
 
 <img align=center width="100%" height="100%" src="manualimages/customcanvas.jpeg">
+*Figure C: Custom Canvas Menu labeled*
 
 This opens the Custom Canvas settings menu shown in figure (? - label figures later).
 
@@ -144,6 +147,7 @@ OR:
 3. Tap 'Stack'.
 
 <img align=center width="100%" height="100%" src="manualimages/stack.gif">
+*Figure D: Stack creation example*
 
 This will create a folder, or "Stack" full of projects. More projects can be added to an existing stack using the same methods.
 
@@ -152,11 +156,12 @@ This will create a folder, or "Stack" full of projects. More projects can be add
 Procreate's Workspace is minimalistic and compact, allowing artists to focus on their project at hand.
 
 <img align=center width="100%" height="100%" src="manualimages/workspace.jpg">
-
+*Figure E: Procreate workspace layout*
 
 ## Painting Tools
 
 <img align=center width="100%" height="100%" src="manualimages/paintingtools.jpg">
+*Figure F: Painting tool bar*
 
 1: Brush Library: Swap between brushes. Here, you can import and edit custom brushes and organize the brush library.
 
@@ -169,7 +174,9 @@ Procreate's Workspace is minimalistic and compact, allowing artists to focus on 
 5: Colors: Select colors with the color wheel. Here, you can create or import color palettes.
 
 ## Side Bar
-<img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">     
+<img align=center width="6%" height="6%" src="manualimages/sidebar.jpg">
+*Figure G: Side bar panel*
+
 1 - Brush Size Slider: Drag the slider up to increase brush size, drag down to decrease.
 
 2 - Modify Button: Customizable button for tools. The default settings brings up the eyedropper.
@@ -180,6 +187,7 @@ Procreate's Workspace is minimalistic and compact, allowing artists to focus on 
 ## Editing Tools
 
 <img align=center width="100%" height="100%" src="manualimages/editingtools.jpg">
+*Figure H: Editing tool bar*
 
 1 - Gallery: Tap to go back to the Gallery
 
@@ -198,6 +206,7 @@ Procreate offers an extensive collection of brushes, smudge tools, and erasers t
 Procreate comes equipped with an extensive default brush library, organized into categories such as Sketching, Inking, and Painting. Each category is tailored for specific needs. 
 
 <img align=center width="100%" height="100%" src="manualimages/brushlibrary.PNG">
+*Figure I: Brush Library*
 
 - Sketching Brushes: Best suited brushes for rough sketches
 - Inking Brushes: Best suited for clean line art
@@ -207,6 +216,7 @@ Procreate comes equipped with an extensive default brush library, organized into
 Procreate allows artists to fully customize brushes in the Brush Library with Brush Studio: 
 
 <img align=center width="100%" height="100%" src="manualimages/brushstudio.PNG">
+*Figure J: Default Brush Studio*
 
 1. Tap on a brush to open its settings.
 2. In the Brush Studio, you can adjust various settings such as stroke path, stabilization, taper, grain, and more.
@@ -237,6 +247,7 @@ Expand your Brush Library through importing external brushes and sharing your ow
 Layers help you organize your artwork. Work independently on different elements of your work withing affecting other parts.
 
 <img align=center width="100%" height="100%" src="manualimages/layers.PNG">
+*Figure K: Layers Menu*
 
 ### Create a New Layer: 
 - Tap the '+' icon in the Layers menu.
@@ -259,7 +270,7 @@ Blend modes change how layers interact with each other.
 Procreate offers many blend modes such as darkening options, lightening options, multiply, and more. Experiment with blend modes to transform your artwork.
 
 <img align=center width="100%" height="100%" src="manualimages/layeradjustments.PNG">
-
+*Figure L: Blend Modes*
 
 ## Alpha Lock and Clipping Masks
 - Alpha Lock: Restricts painting to the existing pixels on a layer. Enable Alpha Lock by tapping on a layer and selecting 'Alpha Lock'. Alpha Lock is useful for adjusting colors of a layer without changing the existing shape.
@@ -290,6 +301,7 @@ Layers allow easy and specific adjustments to parts of your work without affecti
 Procreate's color wheel lets you select and fine tune colors for your work. 
 
 <img align=center width="100%" height="100%" src="manualimages/colorwheel.PNG">
+*Figure M: Color Wheel*
 
 ### Color Wheel Tabs
 - Disc: A circular color wheel to change the hue, saturation, and brightness
@@ -302,19 +314,21 @@ The eyedropper allows you to pick exact colors from your canvas.
 - Press and hold your finger on the canvas to sample a color.
 
 <img align=center width="100%" height="100%" src="manualimages/eyedropper.gif">
+*Figure N: Eyedropper example*
 
 ### ColorDrop 
-Color drop works as a fill bucket to fill areas with solid color.
+ColorDrop works as a fill bucket to fill areas with solid color.
 
 - Drag the color from the color circle onto your canvas to fill the area with that color.
 
 <img align=center width="100%" height="100%" src="manualimages/colordrop.gif">
+*Figure O: ColorDrop example*
 
 ## Creating and Managing Palettes
 Palettes allow you to save and organize colors.
 
 <img align=center width="100%" height="100%" src="manualimages/colorpalette.PNG">
-
+*Figure P: Color Palette Menu*
 
 ### Create a palette: 
 1. Open the color wheel and select 'Palettes'
@@ -335,6 +349,7 @@ Palettes allow you to save and organize colors.
 Transform tools allow for manipulation of shapes in your work. 
 
 <img align=center width="100%" height="100%" src="manualimages/transformtools.PNG">
+*Figure Q: Transform Menu*
 
 - Freeform: Scale shape while changing proportions. Can stretch and compress shapes.
 - Uniform: Resize shape while maintaining the proportions.
@@ -378,6 +393,7 @@ Procreate pffers six different filters and effects to add to your work:
 Procreate's selection tool allows you to isolate areas of your artwork.
 
 <img align=center width="100%" height="100%" src="manualimages/selectiontools.PNG">
+*Figure R: Selection Menu*
 
 To use selection, tap the 'S'-looking icon and choose from:
 - Automatic: Automatically selects the area you tap on.
@@ -392,7 +408,7 @@ After selecting an area, you can easily copy, paste, or cut selections:
 - Cut: Removes the selected area and copies it to the clipboard.
 
 # Touch Gestures and Shortcuts
-Touch Gestures allow for easy access to tools such as rotate and zoom, undo and redo, clearing layers, and more.
+Touch Gestures allow easy access to tools such as rotate and zoom, undo and redo, clearing layers, and more.
 
 ## Touch to Paint
 - Use your finger or Apple Pencil to paint on the canvas.
@@ -424,6 +440,7 @@ Touch Gestures allow for easy access to tools such as rotate and zoom, undo and 
 Export and share your work from the actions menu.
 
 <img align=center width="100%" height="100%" src="manualimages/export.PNG">
+*Figure S: Export Options*
 
 1. Tap the actions menu (the gear icon)
 2. Select 'Share'
