@@ -86,6 +86,7 @@ To create a custom canvas:
 2. Tap the canvas icon with a '+' to the right of 'New canvas'.
 
 <img align=center width="100%" height="100%" src="manualimages/customcanvas.jpeg">
+
 This opens the Custom Canvas settings menu shown in figure (? - label figures later).
 
 The following is an explanation of each tab:
