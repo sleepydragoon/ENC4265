@@ -196,12 +196,17 @@ Procreate offers an extensive collection of brushes, smudge tools, and erasers t
 ## Brush Library
 Procreate comes equipped with an extensive default brush library, organized into categories such as Sketching, Inking, and Painting. Each category is tailored for specific needs. 
 
+<img align=center width="100%" height="100%" src="manualimages/brushlibrary.PNG">
+
 - Sketching Brushes: Best suited brushes for rough sketches
 - Inking Brushes: Best suited for clean line art
 - Painting Brushes: Imitate real paintbrushes for the traditional painted look
   
 ## Customizing and Creating Brushes 
-Procreate allows artists to fully customize brushes in the Brush Library: 
+Procreate allows artists to fully customize brushes in the Brush Library with Brush Studio: 
+
+<img align=center width="100%" height="100%" src="manualimages/brushstudio.PNG">
+
 1. Tap on a brush to open its settings.
 2. In the Brush Studio, you can adjust various settings such as stroke path, stabilization, taper, grain, and more.
 3. Adjust the brush settings to suit your unique art style.
@@ -229,6 +234,8 @@ Expand your Brush Library through importing external brushes and sharing your ow
 
 ## Creating and Managing Layers
 Layers help you organize your artwork. Work independently on different elements of your work withing affecting other parts.
+
+<img align=center width="100%" height="100%" src="manualimages/layers.PNG">
 
 ### Create a New Layer: 
 - Tap the '+' icon in the Layers menu.
