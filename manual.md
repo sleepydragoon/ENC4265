@@ -300,11 +300,15 @@ Procreate's color wheel lets you select and fine tune colors for your work.
 The eyedropper allows you to pick exact colors from your canvas. 
 - Press and hold your finger on the canvas to sample a color.
 
+<img align=center width="100%" height="100%" src="manualimages/eyedropper.gif">
+
 ### ColorDrop 
 Color drop works as a fill bucket to fill areas with solid color.
 
 - Drag the color from the color circle onto your canvas to fill the area with that color.
-  
+
+<img align=center width="100%" height="100%" src="manualimages/colordrop.gif">
+
 ## Creating and Managing Palettes
 Palettes allow you to save and organize colors.
 
