@@ -257,6 +257,9 @@ Blend modes change how layers interact with each other.
 
 Procreate offers many blend modes such as darkening options, lightening options, multiply, and more. Experiment with blend modes to transform your artwork.
 
+<img align=center width="100%" height="100%" src="manualimages/layeradjustments.PNG">
+
+
 ## Alpha Lock and Clipping Masks
 - Alpha Lock: Restricts painting to the existing pixels on a layer. Enable Alpha Lock by tapping on a layer and selecting 'Alpha Lock'. Alpha Lock is useful for adjusting colors of a layer without changing the existing shape.
 - Clipping Masks: Allows painting on a separate layer while restricting the painting to the pixels of the layer below it. Create a clipping mask by tapping the top layer and selecting 'Clipping Mask'.
@@ -302,7 +305,10 @@ Color drop works as a fill bucket to fill areas with solid color.
 - Drag the color from the color circle onto your canvas to fill the area with that color.
   
 ## Creating and Managing Palettes
-Palettes allow you to save and organize colors
+Palettes allow you to save and organize colors.
+
+<img align=center width="100%" height="100%" src="manualimages/colorpalette.PNG">
+
 
 ### Create a palette: 
 1. Open the color wheel and select 'Palettes'
@@ -321,6 +327,9 @@ Palettes allow you to save and organize colors
 # Transform & Adjustments
 ## Transform Tools
 Transform tools allow for manipulation of shapes in your work. 
+
+<img align=center width="100%" height="100%" src="manualimages/transformtools.PNG">
+
 - Freeform: Scale shape while changing proportions. Can stretch and compress shapes.
 - Uniform: Resize shape while maintaining the proportions.
 - Distort: Distort the shape's structure on a single plane axis
@@ -360,7 +369,9 @@ Procreate pffers six different filters and effects to add to your work:
 
 # Selection & Actions
 ## Selection Tools
-Procreate's selection tool allows you to isolate areas of your artwork. 
+Procreate's selection tool allows you to isolate areas of your artwork.
+
+<img align=center width="100%" height="100%" src="manualimages/selectiontools.PNG">
 
 To use selection, tap the 'S'-looking icon and choose from:
 - Automatic: Automatically selects the area you tap on.
@@ -405,6 +416,9 @@ Touch Gestures allow for easy access to tools such as rotate and zoom, undo and 
 
 # Exporting & Sharing Artwork
 Export and share your work from the actions menu.
+
+<img align=center width="100%" height="100%" src="manualimages/export.PNG">
+
 1. Tap the actions menu (the gear icon)
 2. Select 'Share'
 3. Share image or layers with your preferred file format.
@@ -418,7 +432,7 @@ Procreate offers many file formats, each best for a different need:
 - PDF: Used for print quality and layout preservation. Does not preserve layers.
 - JPEG: Exchanges visual quality for a smaller file size. Does not support transparency or layers.
 - PNG: Keeps full quality of the image in exchange for a larger file size. Supports transparency. Does not preserve layers.
-- TIFF Full quality export and ideal for printing. Does not perserve layers.
+- TIFF: Full quality export and ideal for printing. Does not perserve layers.
 
 ### Share Layers
 - PDF: Export layers to a PDF with multiple pages. 
