@@ -9,7 +9,9 @@
 <br>
 <br>
 
+Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
 
+Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate offers.
 
 # Table of Contents
 
@@ -56,9 +58,6 @@
 - [AI Statement](#ai-statement)
 - [References](#references)
 
-Welcome to your comprehensive guide for mastering digital art on Procreate for iPad.
-
-Procreate is a powerful tool that provides studio-quality resources at your fingertips, all for a one-time purchase. Whether you are new to digital drawing or new to Procreate itself, this manual offers step-by-step instructions and explanations for the wide array of tools that Procreate offers.
 
 # Getting Started
 ## Tools
