@@ -134,12 +134,12 @@ The Gallery is able to be rearranged, and projects are able to be stacked. You m
 
 ### Rearrange
 To reorder projects in the Gallery: 
-1. Tap and hold the project you'd like to move
+1. Tap and hold the project you'd like to move.
 2. While still holding, drag the project to where you'd like to rearrange it, and release.
 
 ### Stack
 To stack projects together: 
-1. Tap and hold a project
+1. Tap and hold a project.
 2. Drag the project onto another project and release.
 
 OR:
@@ -203,13 +203,13 @@ From top to bottom:
 
 From left to right: 
 
-- Gallery: Tap to go back to the Gallery
+- Gallery: Tap to go back to the Gallery.
 
-- Actions: Opens the action menu where you can add files, adjust the canvas, share your project, and export time-lapse replay
+- Actions: Opens the action menu where you can add files, adjust the canvas, share your project, and export time-lapse replay.
 
-- Adjustments: Opens the adjustments menu where you can adjust colors and visual effects
+- Adjustments: Opens the adjustments menu where you can adjust colors and visual effects.
 
-- Selections: Use the selection tool to isolate and select specific sections of your artwork 
+- Selections: Use the selection tool to isolate and select specific sections of your artwork.
 
 - Transform: Use the transform tool to resize and shape your layers or selection.
 
@@ -222,9 +222,9 @@ Procreate comes equipped with an extensive default brush library, organized into
 <img align=center width="100%" height="100%" src="manualimages/brushlibrary.PNG">
 *Figure I: Brush Library*
 
-- Sketching Brushes: Best suited brushes for rough sketches
-- Inking Brushes: Best suited for clean line art
-- Painting Brushes: Imitate real paintbrushes for the traditional painted look
+- Sketching Brushes: Best suited brushes for rough sketches.
+- Inking Brushes: Best suited for clean line art.
+- Painting Brushes: Imitate real paintbrushes for the traditional painted look.
   
 ## Customizing and Creating Brushes 
 Procreate allows artists to fully customize brushes in the Brush Library with Brush Studio: 
@@ -239,12 +239,12 @@ Procreate allows artists to fully customize brushes in the Brush Library with Br
 Procreate also allows artists to create brushes from scratch:
 1. Tap the '+' icon at the top-right corner of the Brush Library. This creates a nnew brush with default settings.
 2. Adjust the brush settings to your liking.
-3. Tap the category 'About this brush' to change the brush name
+3. Tap the category 'About this brush' to change the brush name.
 4. Tap 'Done' at the top-right to save your new brush.
    
 ## Smudge and Erase
 In addition to brushes, Procreate offers Smudge and Erase tools:
-- Smudge Tool: Blend colors and create gradients. Select any brush from your Brush Library to control the smudge effects
+- Smudge Tool: Blend colors and create gradients. Select any brush from your Brush Library to control the smudge effects.
 - Erase Tool: Erase or soften parts of your artwork. Select any brush to change the effect.
 
 
@@ -367,7 +367,7 @@ Transform tools allow for manipulation of shapes in your work.
 
 - Freeform: Scale shape while changing proportions. Can stretch and compress shapes.
 - Uniform: Resize shape while maintaining the proportions.
-- Distort: Distort the shape's structure on a single plane axis
+- Distort: Distort the shape's structure on a single plane axis.
 - Warp: Change the shape's structure on multiple axises, allowing it to fold on top of itself.
 
 ## Liquify 
@@ -375,13 +375,13 @@ Liquify allows you to push, pull and swirl your art to create a "liquified" effe
 
 To access liquify:
 
-1. Open the adjustments menu (the magic wand)
-2. Select liquify
+1. Open the adjustments menu (the magic wand).
+2. Select liquify.
 
 ## Color Adjustments
 Color adjustments includes:
 - Hue, Saturation, Brightness: Change the HSB values with sliders.
-- Color Balance: Adjust color scheme by changing the balance of hues
+- Color Balance: Adjust color scheme by changing the balance of hues.
 - Curves: Advanced modification of colors and balance. 
 - Gradient Map: Apply gradient across your work. Changes colors based on the highlights, midtones, and shadows and maps them to the gradient map.
 
@@ -398,8 +398,8 @@ Procreate pffers six different filters and effects to add to your work:
 - Noise: Add grain to your image for a vintage look.
 - Sharpen: Enhance details for a crisp image.
 - Bloom: Add a glow to your work.
-- Glitch: Add various glitch effects
-- Halftone: Creates a halftone print-like look
+- Glitch: Add various glitch effects.
+- Halftone: Creates a halftone print-like look.
 - Chromatic Aberration: Creates color halos on the edges of the image to mimic a camera lens.
 
 # Selection & Actions
@@ -456,8 +456,8 @@ Export and share your work from the actions menu.
 <img align=center width="100%" height="100%" src="manualimages/export.PNG">
 *Figure S: Export Options*
 
-1. Tap the actions menu (the gear icon)
-2. Select 'Share'
+1. Tap the actions menu (the gear icon).
+2. Select 'Share'.
 3. Share image or layers with your preferred file format.
    
 ## Exporting File Formats
@@ -477,8 +477,8 @@ Procreate offers many file formats, each best for a different need:
 - Animated GIF/PNG/MP4/HEVC: Creates a looped animation with each layer being a single frame.
 
 # AI Statement
-ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual"
+ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual".
 # References
-Procreate Logo from: https://logos-world.net/wp-content/uploads/2023/02/Procreate-Emblem.png
+Procreate Logo from: https://logos-world.net/wp-content/uploads/2023/02/Procreate-Emblem.png.
 
 All other images and animations created by me with Procreate and Procreate Dreams.
