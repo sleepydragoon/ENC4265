@@ -43,7 +43,6 @@
 - [Touch Gestures and Shortcuts](#touch-gestures-and-shortcuts)
 - [Exporting & Sharing Artwork](#exporting--sharing-artwork)
     - [Exporting File Formats](#exporting-file-formats)
-    - [Export as a PNG](#export-as-a-png)
 - [AI Statement](#ai-statement)
 - [References](#references)
 
