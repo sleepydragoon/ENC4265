@@ -191,6 +191,10 @@ From top to bottom:
 
 - Brush Opacity: Drag the slider up or down to increase or decrease brush opacity.
 
+- Undo Button: Undo recent actions.
+
+- Redo Button: Redo recent actions.
+
 
 ## Editing Tools
 
