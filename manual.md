@@ -484,8 +484,8 @@ Procreate offers many file formats, each best for a different need:
 - Animated GIF/PNG/MP4/HEVC: Creates a looped animation with each layer being a single frame.
 
 # AI Statement
-ChatGPT 4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual".
+ChatGPT-4.5 was used to create some of the basic outline (headers, subheaders) with the prompt "Provide an outline for a procreate manual".
 # References
-Procreate Logo from: https://logos-world.net/wp-content/uploads/2023/02/Procreate-Emblem.png.
+Procreate Logo from: [logos-world.net](https://logos-world.net/wp-content/uploads/2023/02/Procreate-Emblem.png)
 
 All other images and animations created by me with Procreate and Procreate Dreams.
