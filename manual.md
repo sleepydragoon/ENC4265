@@ -3,6 +3,13 @@
 # Procreate User Manual 
 
 <img align=center width="100%" height="100%" src="manualimages/procreatelogo.png">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 # Table of Contents
 
