@@ -183,7 +183,7 @@ From left to right:
 
 *Figure G: Side bar panel*
 
-From left to right: 
+From top to bottom: 
 
 - Brush Size Slider: Drag the slider up to increase brush size, drag down to decrease.
 
